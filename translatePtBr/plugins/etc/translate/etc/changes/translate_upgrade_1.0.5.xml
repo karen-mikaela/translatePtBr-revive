@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href=""?>
+
+<upgrade>
+    <name>translate</name>
+    <creationDate>2015-01-23</creationDate>
+    <author>Karen Mikaela</author>
+    <authorEmail>karen.mikaela@gmailcom</authorEmail>
+    <authorUrl>karen-mikaela.github.io</authorUrl>
+    <license>GPL</license>
+    <description>Overwrite portuguese translations</description>
+    <version>1.0.5</version>
+    <oxversion>3.1.0</oxversion>
+    <postscript>postscript_translate_upgrade_1.0.5.php</postscript>
+</upgrade>
